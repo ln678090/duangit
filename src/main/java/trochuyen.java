@@ -1,5 +1,5 @@
 
-import io.github.ollama4j.exceptions.OllamaBaseException;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
